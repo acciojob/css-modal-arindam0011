@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+.modal{
+	padding:10px;
+	display:none;
+	width:70vw;
+	background-color:
+}
+.modal-header{
+	background-color:green;
+	color:white;
+	display:flex;
+	justify-content:space-between;
+	padding-inline:10px;
+}
+.model-body{
+	padding-inline:10px;
+}
+.close-modal{
+	background-color:transparent;
+	border:none;
+	margin-bottom:40px;
+	color:gray;
+	font-weight:600;
+}
+.close-modal:hover{
+	color:black;
+}
